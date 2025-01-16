@@ -12,7 +12,7 @@ const teamMembers = [
   },
   {
     name: "Serrato Vargas José Eduardo",
-    photo: "/images/NOHAY.jpg", // Ruta local
+    photo: "/images/otroFoto.jpg", // Ruta local
   },
   {
     name: "Del Solar Rojas Jorge Sebastian",
@@ -20,7 +20,7 @@ const teamMembers = [
   },
   {
     name: "Mendoza Bermejo Darwin Karls",
-    photo: "/images/NOHAY.jpg", // Ruta local
+    photo: "/images/NOHay.jpg", // Ruta local
   },
 ];
 
