@@ -7,20 +7,20 @@ const teamMembers = [
     photo: "https://media.licdn.com/dms/image/v2/D5603AQGOJJA3V3mG-Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1712244604598?e=1742428800&v=beta&t=6mvaJmlbpJCE8R96DtiTU_tat5B5EAnZEW8wwf_ScNg",
   },
   {
-    name: " Chirinos Huerta Michael David",
+    name: "Chirinos Huerta Michael David",
     photo: "https://media.licdn.com/dms/image/v2/D4E03AQF8F90QaLNYtA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1705108616115?e=1742428800&v=beta&t=nOSYYENNVNu1dLlnGGEUAn-SGA1onH83nj-eJiN_H9k",
   },
   {
     name: "Serrato Vargas José Eduardo",
-    photo: "https://via.placeholder.com/150?text=Foto+3",
+    photo: "/images/NOHAY.jpg", // Ruta local
   },
   {
     name: "Del Solar Rojas Jorge Sebastian",
-    photo: "https://via.placeholder.com/150?text=Foto+4",
+    photo: "/images/FOTODELSOLAR.jpg",
   },
   {
     name: "Mendoza Bermejo Darwin Karls",
-    photo: "https://via.placeholder.com/150?text=Foto+5",
+    photo: "/images/NOHAY.jpg", // Ruta local
   },
 ];
 
