@@ -20,7 +20,7 @@ const teamMembers = [
   },
   {
     name: "Mendoza Bermejo Darwin Karls",
-    photo: "/images/NOHay.jpg", // Ruta local
+    photo: "/images/FOTODARWIN.png", // Ruta local
   },
 ];
 
