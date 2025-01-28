@@ -49,7 +49,18 @@ const weeksData = [
     3.2 Espacios de estados
     3.3 Búsqueda de gráficos`,
       tasks: [
-
+        {
+          name: "📝Tarea 1 - Algoritmo",
+          link: "https://drive.google.com/drive/folders/1N-Q0b-b_9dGYgnL0nJu1aCVdq_z8p4Dn?usp=drive_link",
+        },
+        {
+          name: "📜Tarea 2 - Funciones recursivas",
+          link: "https://drive.google.com/drive/folders/1-wJmPn49ma7e_YKr373AUYNyA9ox-fRW?usp=drive_link",
+        },
+        {
+          name: "🛠️Tarea 3 - Android",
+          link: "https://drive.google.com/drive/folders/1xiAa9pmmv0agPeXRlS6gRyKNHjUwA-ym?usp=drive_link",
+        },
       ],
       labs: [
 
