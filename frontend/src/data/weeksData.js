@@ -73,7 +73,11 @@ const weeksData = [
     4.2 Estrategias de búsqueda desinformadas
     4.3 Búsqueda determinística y no determinística`,
       tasks: [
-
+        {
+          name: "Examen Parcial",
+          link: "https://docs.google.com/document/d/1NCq0TkHl4O8pKR1gYxvuAHU0Y5z4Hh_qhGZEy_oocK4/edit?tab=t.0",
+        },
+        
       ],
       labs: [
 
