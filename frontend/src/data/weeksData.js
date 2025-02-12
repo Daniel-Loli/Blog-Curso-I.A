@@ -93,7 +93,10 @@ const weeksData = [
     5.2 Poda del espacio de búsqueda
     5.3 Refinamientos de búsqueda`,
       tasks: [
-
+        {
+          name: "📝Crear y resolver un problema en Prolog",
+          link: "https://docs.google.com/document/d/1j4VXyha0t9fGZ-uqsfhQMUj8O58lFK-1FlyTrGSzV9Y/edit?tab=t.0",
+        },
       ],
       labs: [
 
