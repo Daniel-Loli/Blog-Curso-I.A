@@ -169,10 +169,10 @@ const weeksData = [
     },
     {
       weekNumber: 11,
-      topic: `IA generativa (GAI)
-    1. Conceptos
-    2. Diferencias con la IA tradicional
-    3. Fundamentos y aplicaciones`,
+      topic: `Semana Final
+    Proyectos
+    Examen
+    `,
       tasks: [
 
       ],
@@ -243,7 +243,22 @@ const weeksData = [
       topic: `EXAMEN FINAL
     Trabajo Final`,
       tasks: [
-
+        {
+          name: "📝Proyecto Estacionamiento - Sensores",
+          link: "https://docs.google.com/document/d/1vhHcpRFk7sSXYstVEsRl5sp_sO6ebn3QWcIyhh7sodo/edit?tab=t.0",
+        },
+        {
+          name: "📝Proyecto Sistema de Asistencia con Geolocalización",
+          link: "https://drive.google.com/drive/folders/1-wJmPn49ma7e_YKr373AUYNyA9ox-fRW?usp=drive_link",
+        },
+        {
+          name: "📝Ingreso al proyecto de GeolocaClasificación de Frutas Usando Redes Neuronales Convolucionaleslización",
+          link: "https://docs.google.com/document/d/1fCSwt33y9KXmZZ61WjmfveU48mriKkt9QCVQ0kAv59c/edit?tab=t.0",
+        },
+        {
+          name: "📝Aplicativo",
+          link:"https://github.com/Daniel-Loli/iaasistencia.git",
+        },
       ],
       labs: [
 
