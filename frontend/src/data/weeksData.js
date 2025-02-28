@@ -249,7 +249,7 @@ const weeksData = [
         },
         {
           name: "📝Proyecto Sistema de Asistencia con Geolocalización",
-          link: "https://drive.google.com/drive/folders/1-wJmPn49ma7e_YKr373AUYNyA9ox-fRW?usp=drive_link",
+          link: "https://github.com/Daniel-Loli/iaasistencia.git",
         },
         {
           name: "📝Ingreso al proyecto de GeolocaClasificación de Frutas Usando Redes Neuronales Convolucionaleslización",
@@ -257,7 +257,7 @@ const weeksData = [
         },
         {
           name: "📝Aplicativo",
-          link:"https://github.com/Daniel-Loli/iaasistencia.git",
+          link:"https://stirring-banoffee-ac5184.netlify.app/",
         },
       ],
       labs: [
