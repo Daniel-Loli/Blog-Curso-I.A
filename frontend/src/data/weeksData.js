@@ -259,6 +259,10 @@ const weeksData = [
           name: "📝Aplicativo",
           link:"https://stirring-banoffee-ac5184.netlify.app/",
         },
+        {
+          name:"📝Examen Final",
+          link:"https://drive.google.com/drive/folders/17GQSow_XVf_jpINFxTCC8y9n7zfUZ5u_?usp=sharing",
+        }
       ],
       labs: [
 
