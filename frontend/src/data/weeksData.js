@@ -262,6 +262,10 @@ const weeksData = [
         {
           name:"📝Examen Final",
           link:"https://drive.google.com/drive/folders/17GQSow_XVf_jpINFxTCC8y9n7zfUZ5u_?usp=sharing",
+        },
+        {
+          name:"📝Videos demostrativos",
+          link:"https://drive.google.com/drive/folders/1_jWcrWHwc5T4g3hmgOJbZ6PDlV7N4f-Y?usp=sharing",
         }
       ],
       labs: [
