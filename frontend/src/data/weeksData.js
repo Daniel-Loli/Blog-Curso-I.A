@@ -252,7 +252,7 @@ const weeksData = [
           link: "https://github.com/Daniel-Loli/iaasistencia.git",
         },
         {
-          name: "📝Ingreso al proyecto de GeolocaClasificación de Frutas Usando Redes Neuronales Convolucionaleslización",
+          name: "📝Clasificación de Frutas Usando Redes Neuronales Convolucionaleslización",
           link: "https://docs.google.com/document/d/1fCSwt33y9KXmZZ61WjmfveU48mriKkt9QCVQ0kAv59c/edit?tab=t.0",
         },
         {
